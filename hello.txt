@@ -8,3 +8,4 @@ hello Git!
 hello Git!甘妮娘
 hello Git!真就甘妮娘，真几把难用
 QQ浏览器也是个垃圾应用
+你说的对，git也是垃圾
